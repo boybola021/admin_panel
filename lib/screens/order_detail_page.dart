@@ -59,7 +59,7 @@ class OrderDetailPage extends StatelessWidget {
             children: [
               KTIcons.calendar,
               CustomTextWidget(
-                text: "  ${order.deta}",
+                text: "  ${order.deta.substring(0,10)}",
                 fontSize: 20.sp,
               ),
             ],

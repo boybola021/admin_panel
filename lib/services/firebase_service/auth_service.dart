@@ -1,7 +1,7 @@
-
-
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/foundation.dart';
+
+
 
 sealed class AuthService{
   static final auth = FirebaseAuth.instance;
@@ -25,5 +25,6 @@ sealed class AuthService{
       return false;
     }
   }
+
 
 }
