@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBwiUKYe-II1nA8KdmgxYt4JlILFn1JYc4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>219554701502</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pdp.g5.adminPanel.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>restaurant-connection</string>
+	<key>STORAGE_BUCKET</key>
+	<string>restaurant-connection.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:219554701502:ios:3afc447d0b52676c7cfeef</string>
+	<key>DATABASE_URL</key>
+	<string>https://restaurant-connection-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
